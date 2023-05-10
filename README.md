@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFDC00&height=120&section=header"/>
+
 <div align="center">
    <h2>Olá, Me chamo Guilherme!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
   <p>- 💻 Desejo em trabalhar com Back-Ends</p>
@@ -17,14 +17,14 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guipiccinn&show_icons=true&theme=vision-friendly-dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=guipiccinn&show_icons=true&theme=dracula" />
 </div>
 
 <br>
 
 <div align="center">
   <a href="https://github.com/guipiccinn/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guipiccinn&layout=compact&theme=vision-friendly-dark" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guipiccinn&layout=compact&theme=dracula" />
   </a>
 </div>
 
