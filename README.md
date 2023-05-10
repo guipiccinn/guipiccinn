@@ -5,7 +5,6 @@
   <p>- 🤖 Estudando Java</p>
   <p>- 📖 Contate-me no email: gui.piccinn@gmail.com</p>
 </div>
-<img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='100'>
 <br>
 
 ##
@@ -28,6 +27,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guipiccinn&layout=compact&theme=vision-friendly-dark" />
   </a>
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFDC00&height=120&section=footer"/>
+
  </div>
  
