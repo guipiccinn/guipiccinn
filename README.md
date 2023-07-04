@@ -1,8 +1,8 @@
 
 <div align="center">
    <h2>Olá, Me chamo Guilherme!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
-  <p>- 💻 Desejo em trabalhar com Back-Ends</p>
-  <p>- 🤖 Estudando Java</p>
+  <p>- 💻 Desejo em trabalhar com Computação na Nuvem</p>
+  <p>- 🤖 Estudando AWS</p>
   <p>- 📖 Contate-me no email: gui.piccinn@gmail.com</p>
 </div>
 <br>
